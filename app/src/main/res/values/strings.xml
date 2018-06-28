@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">WilsonTest</string>
+    <string name="app_name">Wilson Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="appbar_scrolling_view_behavior" />
+
 </resources>
